@@ -1,0 +1,11 @@
+let number = 2;
+let email = "a@gmail.com";
+let ans = true;
+let web;
+let op = null;
+
+console.log(typeof number);
+console.log(typeof email);
+console.log(typeof ans);
+console.log(typeof web);
+console.log(typeof op);
